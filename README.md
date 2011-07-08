@@ -1,6 +1,6 @@
 # sequel-rails
 
-This gem provides the railtie that allows [sequel(https://github.com/jeremyevans/sequel) to hook into [rails3](https://github.com/rails/rails) and thus behave like a rails framework component. Just like activerecord does in rails, [sequel-rails](https://github.com/fredwu/sequel-rails) uses the railtie API to hook into rails. The two are actually hooked into rails almost identically.
+This gem provides the railtie that allows [sequel](https://github.com/jeremyevans/sequel) to hook into [rails3](https://github.com/rails/rails) and thus behave like a rails framework component. Just like activerecord does in rails, [sequel-rails](https://github.com/fredwu/sequel-rails) uses the railtie API to hook into rails. The two are actually hooked into rails almost identically.
 
 The code for this gem was initially taken from the excellent [dm-rails](https://github.com/datamapper/dm-rails) project.
 
