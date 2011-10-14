@@ -20,8 +20,8 @@ Secondly, you'll need to require "sequel-rails/railtie" in your `config/applicat
 
     # instead of 'rails/all', require these:
     require 'action_controller/railtie'
-    require 'sequel-rails/railtie
-    require 'action_mailer/railtie
+    require 'sequel-rails/railtie'
+    require 'action_mailer/railtie'
     require 'active_resource/railtie'
 
 After those changes, you should be good to go!
